@@ -16,6 +16,17 @@
             "uniqueID": 1747692485033,
             "ioValues": [],
             "description": "Connect geometry here to make it available in the next level up. "
+        },
+        {
+            "atomType": "Text",
+            "name": "Text",
+            "x": 0.32691278758694486,
+            "y": 0.4786729857819905,
+            "uniqueID": 1747700742189,
+            "ioValues": [],
+            "description": "Creates a new text sketch.",
+            "fontFamily": "ANTON",
+            "selectedFontIndex": 0
         }
     ],
     "allConnectors": [],
